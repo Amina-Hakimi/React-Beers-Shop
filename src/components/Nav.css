@@ -1,0 +1,19 @@
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+  
+
+}
+
+img {
+    display: flex;
+    width: 60%;
+    height: 60%;
+    align-items: center;
+}
+
+ul li  {
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+}
